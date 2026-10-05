@@ -1,4 +1,4 @@
-# Generic External Launcher for RetroArch (Windows only) - Based on [libretro-dolphin-launcher](https://github.com/RobLoach/libretro-dolphin-launcher) by Rob Loach (MIT). 
+# Generic External Launcher for RetroArch by PickOne (Windows only) - Based on [libretro-dolphin-launcher](https://github.com/RobLoach/libretro-dolphin-launcher) by Rob Loach (MIT). 
 
 A tiny libretro core that doesn't emulate anything itself. When you load a game in RetroArch, it starts an **external emulator** (RPCS3, PCSX2, Dolphin, Cemu, TeknoParrot, so on) with that game. When you close the game/emulator, you are back in RetroArch.
 
