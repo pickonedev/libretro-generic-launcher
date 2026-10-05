@@ -1,0 +1,20 @@
+display_name = "Launcher - Switch Emulator"
+authors = "PickOne"
+supported_extensions = "nsp|xci|nca|nro"
+corename = "Launcher Switch Emulator"
+license = "MIT"
+permissions = ""
+display_version = "2.0"
+categories = "Launcher"
+
+manufacturer = "Nintendo"
+systemname = "Nintendo - Switch"
+systemid = "switch"
+
+supports_no_game = "true"
+savestate = "false"
+needs_fullpath = "true"
+hw_render = "false"
+
+notes = "..."
+description = "..."
